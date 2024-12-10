@@ -4,7 +4,7 @@
 
 </h1>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<!-- <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -26,7 +26,7 @@
   <a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="40" height="45"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" alt="vscode" width="40" height="45"/> </a>
 </p>
-<hr>
+<hr> -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=dryladen&theme=react" alt="GitHub Streak" />
