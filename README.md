@@ -29,6 +29,5 @@
 <hr> -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=dryladen&theme=react" alt="GitHub Streak" />
   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dryladen&layout=compact" alt="GitHub Streak" />
 </div>
