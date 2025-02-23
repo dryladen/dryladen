@@ -27,7 +27,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" alt="vscode" width="40" height="45"/> </a>
 </p>
 <hr> -->
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <div align="center">
-  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dryladen&layout=compact" alt="GitHub Streak" />
+  <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dryladen&layout=compact" alt="GitHub Streak" />
 </div>
