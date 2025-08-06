@@ -1,4 +1,4 @@
-<h1 align="center">Delfan Rynaldo Laden</h1>
+<div align="center"><h1 align="center">Delfan Rynaldo Laden</h1><img src="https://visitor-badge.laobi.icu/badge?page_id=dryladen.dryladen&"  /></div>
 
 ###
 
@@ -52,19 +52,11 @@
 </div>
 
 ###
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dryladen&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="350" width="full" alt="languages graph" /> <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dryladen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=dryladen&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=dryladen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dryladen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dryladen/dryladen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dryladen/dryladen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dryladen/dryladen/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dryladen&radius=16&theme=tokyo-night&area=false&order=5&point=30a14e&title_color=30a14e&color=30a14e" height="300" alt="activity-graph graph"  />
