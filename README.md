@@ -52,11 +52,5 @@
 </div>
 
 ###
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dryladen&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="350" width="full" alt="languages graph" /> <br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=dryladen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-</div>
-
-###
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dryladen&radius=16&theme=tokyo-night&area=false&order=5&point=30a14e&title_color=30a14e&color=30a14e" height="300" alt="activity-graph graph"  />
