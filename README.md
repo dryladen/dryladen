@@ -50,7 +50,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="59" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dryladen&radius=16&theme=tokyo-night&area=false&order=5&point=30a14e&title_color=30a14e&color=30a14e" height="300" alt="activity-graph graph"  />
